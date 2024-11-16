@@ -1,0 +1,1 @@
+import{_ as a,v as s,D as c,B as n,A as _,I as r,C as l,E as d}from"./D8ePIhGg.js";const f={};function i(p,e){const t=r,o=d;return s(),c(o,null,{default:n(()=>[_(t,null,{default:n(()=>e[0]||(e[0]=[l(" testing ")])),_:1})]),_:1})}const x=a(f,[["render",i]]);export{x as default};
